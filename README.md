@@ -54,7 +54,9 @@ I tried to boost performance by dropping few more columns, created more bins for
 
 After removing unnecessary features, adding layers and neurons, increasing bins and changing activation function, the prediction accuracy of whether applicants will be successful if funded by Alphabet Soup was 73% and metric loss was 0.5789
 
+# Recommendation
 
+We can use a supervised machine learning model such as the Random Forest Classifier by randomly sampling the preprocessed data and building several decision trees. It is useful in case of overfitting the data, outliers and non linear data.
 
 
 
